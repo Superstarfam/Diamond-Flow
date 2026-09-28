@@ -1,0 +1,9 @@
+{
+  "name": "DiamondFlow \u2013 Diamond Work Tracker",
+  "short_name": "DiamondFlow",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ff",
+  "theme_color": "#5b21b6",
+  "description": "Daily diamond assorting, balance and colour grading tracker."
+}
